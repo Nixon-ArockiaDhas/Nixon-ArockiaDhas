@@ -35,11 +35,7 @@
 
 ---
 
-## 📬 Let's Connect
-
-📧 **Email:** nixoncj57@gmail.com  
-📞 **Phone:** +91-7868022357  
-🔗 **LinkedIn:** [linkedin.com/in/nixon-arockia-dhas](https://linkedin.com/in/nixon-arockia-dhas)
+<h2>⚡️ Where to find me</h2><p><a target="_blank" href="https://www.linkedin.com/in/nixon-arockiadhas" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a><a target="_blank" href="https://www.dribbble.com/Nixon_AD" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=#ea64d9" alt="dribbble" /></a><a target="_blank" href="https://www.behance.net/nixondhas" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=#0057ff" alt="behance" /></a></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nixon-ArockiaDhas&show_icons=true&locale=en&layout=compact" alt="Nixon-ArockiaDhas" /></p>
 
 ---
 
