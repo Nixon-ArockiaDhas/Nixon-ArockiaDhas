@@ -6,7 +6,7 @@
 
 🔧 I build clean, intuitive, and responsive digital experiences with a focus on usability, performance, and design precision.
 
-🧠 With **4+ years** in design and **2 years** in front-end development using ReactJS, I combine creativity and code to deliver seamless web and mobile products.
+🧠 With **6+ years** in design and **2 years** in front-end development using ReactJS, I combine creativity and code to deliver seamless web and mobile products.
 
 ---
 
